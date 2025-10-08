@@ -1,16 +1,15 @@
 <h2 align="center">✨ Hi, I’m Min — Animator & Photographer ✨</h2>
 
 <p align="center">
-  <em>Bringing Idea To Life.</em>
+  <em>Bringing Ideas To Life.</em>
 </p>
 
 ---
 
 ### 🎥 About Me
-- 🎨 3D Animator & Photographer   
+- 🎨 3D Animator and Data Science Student   
 - 🖌️ Experienced with industry-standard tools: **Adobe Suite**, **Blender**, **Unreal Engine**, **Maya**, **3ds Max**, **Maxon Cinema 4D**  
-- 💻 Foundation with skills in **C++** and **C#**, currently learning **MySQL**  
-- 📸 Sony A6700  
+- 💻 Foundation with skills in **C++** , **C#** and **HTML**, currently learning **MySQL** & **Python**  
 
 ---
 
